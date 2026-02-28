@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">Hey there 👋, I'm pnf000</h1>
 <h3 align="center">🚀 Builder | 🧠 Problem Solver | ⚡ Always Shipping</h3>
-
+![Alt](https://repobeats.axiom.co/api/embed/51e12ec5a23915d81feda7f2ff819e1003c30174.svg "Repobeats analytics image")
 <p align="center">
   <a href="https://github.com/pnf000">
     <img src="https://komarev.com/ghpvc/?username=pnf000&label=Profile%20views&color=0e75b6&style=flat" alt="pnf000" />
