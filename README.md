@@ -1,18 +1,58 @@
-## Hi there 👋
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hey there 👋, I'm pnf000</h1>
+<h3 align="center">🚀 Builder | 🧠 Problem Solver | ⚡ Always Shipping</h3>
 
-<!--
-**pfn000/pfn000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/pnf000">
+    <img src="https://komarev.com/ghpvc/?username=pnf000&label=Profile%20views&color=0e75b6&style=flat" alt="pnf000" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
+## 🧩 About Me
+
+- 🔭 Currently building: **cool stuff that actually works**
+- 🌱 Learning: **everything that makes me more dangerous**
+- 🛠️ Focus: **automation, performance, and clean architecture**
+- 🎯 Goal: **ship fast, break less, scale smart**
+- ⚡ Fun fact: I debug faster with caffeine ☕
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ⚙️ Tools & Frameworks
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+*(Edit this stack to match your real tools)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pnf000&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pnf000&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Current Focus
+
+```text
+> Building scalable systems
+> Automating boring things
+> Leveling up daily
 # Some of my work 
 <a href="https://github.com/pfn000/Portfolio-?utm_source=toolfio&utm_medium=badge&utm_campaign=embed&utm_content=tool-portfolio-" target="_blank" rel="noopener noreferrer"><img src="https://toolfio.com/api/badge.svg?topText=Official&badgeText=Portfolio+&textColor=1f2937&backgroundColor=ffffff&icon=book-open&iconColor=0091ff&frameColor=000000&frameThickness=2&fontFamily=Arial%2C+sans-serif&shape=rounded&width=300&height=80" width="300" height="80" alt="Official Portfolio  badge" loading="lazy" /></a>
