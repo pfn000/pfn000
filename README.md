@@ -46,7 +46,7 @@
 </p>
 ---
 
-## 🧠 Current Focus
+## 🧠 Current Focus 
 
 ```text
 > Building scalable systems
