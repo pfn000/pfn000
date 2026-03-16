@@ -1,56 +1,89 @@
 <!-- ===================== HEADER ===================== -->
-<h1 align="center">Hey there 👋, I'm pnf000</h1>
+<h1 align="center">Hey there 👋, I'm Saidie</h1>
 <h3 align="center">🚀 Builder | 🧠 Problem Solver | ⚡ Always Shipping</h3>
+
+
 
 [![Repobeats analytics](https://repobeats.axiom.co/api/embed/51e12ec5a23915d81feda7f2ff819e1003c30174.svg)](https://repobeats.axiom.co/)
 
-<p align="center">
-  <a href="https://github.com/pnf000">
-    <img src="https://komarev.com/ghpvc/?username=pnf000&label=Profile%20views&color=0e75b6&style=flat" alt="pfn000" />
+
+
+
+
+
+## 🚀 Featured Projects 
+
+
+<div style="display:flex; gap:10px; flex-wrap:wrap;">
+
+  <!-- markdown-training -->
+  <a href="https://github.com/pfn000/markdown-training" target="_blank" style="text-decoration:none; display:inline-block; text-align:center;">
+    <img src="https://opengraph.githubassets.com/1/pfn000/markdown-training" 
+         alt="markdown-training" 
+         style="width:250px; height:140px; object-fit:cover; border-radius:8px;"/>
+    <div style="color:#000; font-weight:bold; margin-top:5px;">markdown-training</div>
   </a>
-</p>
+
+  <!-- RADcam -->
+  <a href="https://github.com/pfn000/RADcam" target="_blank" style="text-decoration:none; display:inline-block; text-align:center;">
+    <img src="https://opengraph.githubassets.com/1/pfn000/RADcam" 
+         alt="RADcam" 
+         style="width:250px; height:140px; object-fit:cover; border-radius:8px;"/>
+    <div style="color:#000; font-weight:bold; margin-top:5px;">RADcam</div>
+  </a>
+
+  <!-- KhonXR -->
+  <a href="https://github.com/pfn000/KhonXR" target="_blank" style="text-decoration:none; display:inline-block; text-align:center;">
+    <img src="https://opengraph.githubassets.com/1/pfn000/KhonXR" 
+         alt="KhonXR Repo" 
+         style="width:250px; height:140px; object-fit:cover; border-radius:8px;"/>
+    <div style="color:#000; font-weight:bold; margin-top:5px;">KhonXR</div>
+  </a>
+
+  <!-- Plex-Code -->
+  <a href="https://github.com/pfn000/PleX" target="_blank" style="text-decoration:none; display:inline-block; text-align:center;">
+    <img src="https://opengraph.githubassets.com/1/pfn000/PleX" 
+         alt="PleX" 
+         style="width:250px; height:140px; object-fit:cover; border-radius:8px;"/>
+    <div style="color:#000; font-weight:bold; margin-top:5px;">Plex-Code</div>
+  </a>
+
+</div>
 
 ---
+![Banner](https://raw.githubusercontent.com/pfn000/pfn000/main/Screenshot%202026-03-16%20180046.png)
+
 
 ## 🧩 About Me
-
-- 🔭 Currently building: **cool stuff that actually works**
-- 🌱 Learning: **everything that makes me more dangerous**
-- 🛠️ Focus: **automation, performance, and clean architecture**
-- 🎯 Goal: **ship fast, break less, scale smart**
+- 🔭 Currently building: **cool stuff that actually works**  
+- 🌱 Learning: **everything that makes me more dangerous**  
+- 🛠️ Focus: **automation, performance, and clean architecture**  
+- 🌐 Live Portfolio: **[v0 Dark Mode Site](https://v0-dark-mode-website-13obc5bni-saidienewara-3366s-projects.vercel.app)**  
+- 🎯 Goal: **ship fast, break less, scale smart**  
 - ⚡ Fun fact: I debug faster with caffeine ☕
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 Live Languages (Real-Time from My Repos)
+*Auto-updates with every commit — shows exactly what I'm using right now.*
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ⚙️ Tools & Frameworks
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-*(Edit this stack to match your real tools)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfn000&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pnf000&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pfn000&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170" src="https://streak-stats.demolab.com?user=pfn000&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
-## 🧠 Current Focus 
 
+---
+
+## ⚖️ Legal
 ```text
-> Building scalable systems
-> Automating boring things
-> Leveling up daily
-# Some of my work 
-<a href="https://github.com/pfn000/Portfolio-?utm_source=toolfio&utm_medium=badge&utm_campaign=embed&utm_content=tool-portfolio-" target="_blank" rel="noopener noreferrer"><img src="https://toolfio.com/api/badge.svg?topText=Official&badgeText=Portfolio+&textColor=1f2937&backgroundColor=ffffff&icon=book-open&iconColor=0091ff&frameColor=000000&frameThickness=2&fontFamily=Arial%2C+sans-serif&shape=rounded&width=300&height=80" width="300" height="80" alt="Official Portfolio  badge" loading="lazy" /></a>
+> Owner & founder of NCOM Systems 
