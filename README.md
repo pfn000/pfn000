@@ -2,7 +2,6 @@
 
 ![Banner](https://raw.githubusercontent.com/pfn000/pfn000/main/Screenshot%202026-03-17%20105152.png)
 
-
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-dark-mode-website-13obc5bni-saidienewara-3366s-projects.vercel.app)&nbsp;
@@ -35,31 +34,30 @@ fun_fact:    debugs faster with caffeine ☕
 ### PleX Code
 *Custom programming language — Founder & Creator*
 
-[![PleX Code](https://raw.githubusercontent.com/pfn000/PleX/main/Assets/Images/PleXcode%20Banner.PNG)](https://github.com/pfn000/PleX)
+[![PleX Code Banner](https://raw.githubusercontent.com/pfn000/PleX/main/Assets/Images/PleXcode%20Banner.PNG)](https://github.com/pfn000/PleX)
 
-[![View PleX Repo](https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pfn000/PleX)
 
-<br/>
+
+<br/><br/>
 
 ### NCOM Systems
 *Owner & Founder · Software via PleX Code*
 
-[![NCOM Systems](https://raw.githubusercontent.com/pfn000/PleX/main/Assets/Images/NCOM%20Systems%202026%20Banner.PNG)](https://github.com/pfn000)
+[![NCOM Systems Banner](https://raw.githubusercontent.com/pfn000/PleX/main/Assets/Images/NCOM%20Systems%202026%20Banner.PNG)](https://github.com/pfn000)
 
 </div>
 
 ---
 
-## ◈ FEATURED PROJECTS
+## ◈ PROJECTS
 
 <div align="center">
 
-| Project | What It Is |
-|---|---|
-| [**PleX**](https://github.com/pfn000/PleX) | Custom programming language · Founder & Creator |
-| [**KhonXR**](https://github.com/pfn000/KhonXR) | Extended reality build |
-| [**RADcam**](https://github.com/pfn000/RADcam) | Camera tooling project |
-| [**markdown-training**](https://github.com/pfn000/markdown-training) | Structured markdown learning repo |
+[![KhonXR](https://github-readme-stats.vercel.app/api/pin/?username=pfn000&repo=KhonXR&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&border_radius=8)](https://github.com/pfn000/KhonXR)&nbsp;
+[![RADcam](https://github-readme-stats.vercel.app/api/pin/?username=pfn000&repo=RADcam&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&border_radius=8)](https://github.com/pfn000/RADcam)
+
+[![markdown-training](https://github-readme-stats.vercel.app/api/pin/?username=pfn000&repo=markdown-training&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&border_radius=8)](https://github.com/pfn000/markdown-training)&nbsp;
+[![PleX](https://github-readme-stats.vercel.app/api/pin/?username=pfn000&repo=PleX&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&border_radius=8)](https://github.com/pfn000/PleX)
 
 </div>
 
