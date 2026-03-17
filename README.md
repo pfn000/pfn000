@@ -87,3 +87,15 @@
 ## ⚖️ Legal
 ```text
 > Owner & founder of NCOM Systems 
+```
+
+<p align="center">
+  <a href="https://v0-dark-mode-website-13obc5bni-saidienewara-3366s-projects.vercel.app" target="_blank">
+    <img src="https://image.thum.io/get/https://v0-dark-mode-website-13obc5bni-saidienewara-3366s-projects.vercel.app"
+         alt="Portfolio Preview"
+         width="250"
+         height="140">
+    <br><br>
+    <strong>Portfolio</strong>
+  </a>
+</p>
