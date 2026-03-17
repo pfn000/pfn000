@@ -1,101 +1,124 @@
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">Hey there 👋, I'm Saidie</h1>
-<h3 align="center">🚀 Builder | 🧠 Problem Solver | ⚡ Always Shipping</h3>
+<div align="center">
 
+![Banner](https://raw.githubusercontent.com/pfn000/pfn000/main/Screenshot%202026-03-17%20105152.png)
 
+<br/>
 
-[![Repobeats analytics](https://repobeats.axiom.co/api/embed/51e12ec5a23915d81feda7f2ff819e1003c30174.svg)](https://repobeats.axiom.co/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-dark-mode-website-13obc5bni-saidienewara-3366s-projects.vercel.app)&nbsp;
+[![X Follow](https://img.shields.io/badge/FOLLOW_@SAIDIEQN-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SaidieQN)&nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB_@PFN000-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pfn000)
 
+<br/>
 
+```
+  ██████╗ ███████╗███╗   ██╗ ██████╗
+  ██╔══██╗██╔════╝████╗  ██║██╔═══██╗
+  ██████╔╝█████╗  ██╔██╗ ██║██║   ██║
+  ██╔═══╝ ██╔══╝  ██║╚██╗██║██║   ██║
+  ██║     ██║     ██║ ╚████║╚██████╔╝
+  ╚═╝     ╚═╝     ╚═╝  ╚═══╝ ╚═════╝
+```
 
-
-
-
-## 🚀 Featured Projects 
-
-
-<div style="display:flex; gap:10px; flex-wrap:wrap;">
-
-  <!-- markdown-training -->
-  <a href="https://github.com/pfn000/markdown-training" target="_blank" style="text-decoration:none; display:inline-block; text-align:center;">
-    <img src="https://opengraph.githubassets.com/1/pfn000/markdown-training" 
-         alt="markdown-training" 
-         style="width:250px; height:140px; object-fit:cover; border-radius:8px;"/>
-    <div style="color:#000; font-weight:bold; margin-top:5px;">markdown-training</div>
-  </a>
-
-  <!-- RADcam -->
-  <a href="https://github.com/pfn000/RADcam" target="_blank" style="text-decoration:none; display:inline-block; text-align:center;">
-    <img src="https://opengraph.githubassets.com/1/pfn000/RADcam" 
-         alt="RADcam" 
-         style="width:250px; height:140px; object-fit:cover; border-radius:8px;"/>
-    <div style="color:#000; font-weight:bold; margin-top:5px;">RADcam</div>
-  </a>
-
-  <!-- KhonXR -->
-  <a href="https://github.com/pfn000/KhonXR" target="_blank" style="text-decoration:none; display:inline-block; text-align:center;">
-    <img src="https://opengraph.githubassets.com/1/pfn000/KhonXR" 
-         alt="KhonXR Repo" 
-         style="width:250px; height:140px; object-fit:cover; border-radius:8px;"/>
-    <div style="color:#000; font-weight:bold; margin-top:5px;">KhonXR</div>
-  </a>
-
-  <!-- Plex-Code -->
-  <a href="https://github.com/pfn000/PleX" target="_blank" style="text-decoration:none; display:inline-block; text-align:center;">
-    <img src="https://opengraph.githubassets.com/1/pfn000/PleX" 
-         alt="PleX" 
-         style="width:250px; height:140px; object-fit:cover; border-radius:8px;"/>
-    <div style="color:#000; font-weight:bold; margin-top:5px;">Plex-Code</div>
-  </a>
+*builder. breaker. founder.*
 
 </div>
 
 ---
-![Banner](https://raw.githubusercontent.com/pfn000/pfn000/main/Screenshot%202026-03-16%20180046.png)
 
+## ◈ ABOUT
 
-## 🧩 About Me
-- 🔭 Currently building: **cool stuff that actually works**  
-- 🌱 Learning: **everything that makes me more dangerous**  
-- 🛠️ Focus: **automation, performance, and clean architecture**  
-- 🌐 Live Portfolio: **[v0 Dark Mode Site](https://v0-dark-mode-website-13obc5bni-saidienewara-3366s-projects.vercel.app)**  
-- 🎯 Goal: **ship fast, break less, scale smart**  
-- ⚡ Fun fact: I debug faster with caffeine ☕
-
----
-
-## 🔥 Live Languages (Real-Time from My Repos)
-*Auto-updates with every commit — shows exactly what I'm using right now.*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfn000&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pfn000&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com?user=pfn000&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-
----
-
-## ⚖️ Legal
-```text
-> Owner & founder of NCOM Systems 
+```yaml
+name:        Saidie Newara
+alias:       pfn000
+role:        Founder @ NCOM Systems
+building:    cool stuff that actually works
+learning:    everything that makes me more dangerous
+focus:       automation · performance · clean architecture
+goal:        ship fast · break less · scale smart
+fun_fact:    debugs faster with caffeine ☕
 ```
 
-<p align="center">
-  <a href="https://v0-dark-mode-website-13obc5bni-saidienewara-3366s-projects.vercel.app" target="_blank">
-    <img src="https://image.thum.io/get/https://v0-dark-mode-website-13obc5bni-saidienewara-3366s-projects.vercel.app"
-         alt="Portfolio Preview"
-         width="250"
-         height="140">
-    <br><br>
-    <strong>Portfolio</strong>
-  </a>
-</p>
+---
+
+## ◈ STACK
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## ◈ FEATURED PROJECTS
+
+<div align="center">
+
+| Project | What It Is |
+|---|---|
+| [**markdown-training**](https://github.com/pfn000/markdown-training) | Structured markdown learning repo |
+| [**RADcam**](https://github.com/pfn000/RADcam) | Camera tooling project |
+| [**KhonXR**](https://github.com/pfn000/KhonXR) | Extended reality build |
+| [**PleX**](https://github.com/pfn000/PleX) | Custom Plex tooling |
+
+</div>
+
+---
+
+## ◈ LANGUAGES
+
+<div align="center">
+
+*auto-updates with every commit*
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfn000&layout=compact&theme=github_dark&hide_border=true&hide_title=true&langs_count=8&bg_color=00000000&text_color=ffffff&icon_color=ffffff" alt="Top Languages" />
+
+</div>
+
+---
+
+## ◈ STATS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pfn000&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=00000000&text_color=ffffff&icon_color=ffffff" />
+&nbsp;&nbsp;
+<img height="170" src="https://streak-stats.demolab.com?user=pfn000&theme=github-dark-blue&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=aaaaaa" />
+
+</div>
+
+---
+
+## ◈ ACTIVITY
+
+<div align="center">
+
+[![Repobeats](https://repobeats.axiom.co/api/embed/51e12ec5a23915d81feda7f2ff819e1003c30174.svg)](https://repobeats.axiom.co/)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════╗
+║         NCOM SYSTEMS © 2026           ║
+║   Owner & Founder — All Rights        ║
+║   Reserved. Unauthorized use,         ║
+║   reproduction, or distribution of    ║
+║   any code, design, or content from   ║
+║   this repository is prohibited.      ║
+╚═══════════════════════════════════════╝
+```
+
+*built in the dark. shipped in the light.*
+
+</div>
