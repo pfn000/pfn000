@@ -120,10 +120,9 @@ fun_fact:    debugs faster with caffeine ☕
 
 *auto-generated daily via github actions · updates with every push*
 
-[![3D Contribution Graph](https://raw.githubusercontent.com/pfn000/pfn000/output/github-contribution-grid-snake-dark.svg)](https://github.com/pfn000)
+![3D Contribution Graph](https://raw.githubusercontent.com/pfn000/pfn000/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
 ---
 ## ◈ ACTIVITY
 
